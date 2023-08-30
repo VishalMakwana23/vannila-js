@@ -1,0 +1,79 @@
+[
+  {
+    "movie": "The Shawshank Redemption",
+    "rating": 9.2,
+    "image": "images/shawshank.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0111161/",
+    "id": "32845941-54f4-4c6c-9be8-319b7f5e50d1"
+  },
+  {
+    "id": "704d95ec-b127-41d6-8cf3-f6982650a518",
+    "movie": "The Godfather",
+    "rating": 9.2,
+    "image": "images/godfather.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0068646/"
+  },
+  {
+    "id": "80592e1d-e272-4eb7-9c4b-26b6a5379714",
+    "movie": "The Dark Knight",
+    "rating": 9,
+    "image": "images/dark_knight.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0468569/"
+  },
+  {
+    "id": "48ebd68e-0df5-4483-b601-6aa4229c8666",
+    "movie": "Pulp Fiction",
+    "rating": 8.9,
+    "image": "images/pulp_fiction.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0110912/"
+  },
+  {
+    "id": "b32ad3c0-0126-4e10-ba9d-bbb35a26568b",
+    "movie": "The Lord of the Rings: The Return of the King",
+    "rating": 9,
+    "image": "images/lotr_return_king.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0167260/"
+  },
+  {
+    "id": "9cd7be69-4175-474b-a422-185301884a83",
+    "movie": "The Lord of the Rings: The Return of the King",
+    "rating": 9,
+    "image": "images/lotr_return_king.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0167260/"
+  },
+  {
+    "id": "ad605217-2401-4dc7-ad29-9421f766d4ca",
+    "movie": "The Good, the Bad and the Ugly",
+    "rating": 8.8,
+    "image": "images/good_bad_ugly.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0060196/"
+  },
+  {
+    "id": "dbf972c4-11c9-41e9-8cea-a078adbbf68d",
+    "movie": "Fight Club",
+    "rating": 8.8,
+    "image": "images/fight_club.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0137523/"
+  },
+  {
+    "id": "7a0d17b5-e577-4dec-8329-05e4864656bf",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": 8.8,
+    "image": "images/lotr_fellowship.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0120737/"
+  },
+  {
+    "id": "18c03292-03ab-447a-b529-832f603934a5",
+    "movie": "Forrest Gump",
+    "rating": 8.8,
+    "image": "images/forrest_gump.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0109830/"
+  },
+  {
+    "id": "f4937f52-c227-4b88-b9ad-533e643459b3",
+    "movie": "Inception",
+    "rating": 8.8,
+    "image": "images/inception.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt1375666/"
+  }
+]
